@@ -232,11 +232,11 @@ var devServer ={
 
 在工具栏找到 Tools > Deployment > Configurations ，选择 SFTP 并配置相关内容。
 
-​​![](http://blogimg.since1105.wang/multipage0.png)
+​​![](http://blogimg.since1105.wang/multipage00.png)
 
-​​![](http://blogimg.since1105.wang/multipage1.png)
+​​![](http://blogimg.since1105.wang/multipage01.png)
 
-​​![](http://blogimg.since1105.wang/multipage2.png)
+​​![](http://blogimg.since1105.wang/multipage02.png)
 
 配置好之后，选中除 node_modules 以外的文件上传至服务器（ctrl+shift+alt+x）。在工具栏找到 Tools > Start SSH session... 连接上服务器。进入服务器上的vue项目文件夹，使用 npm install 安装好所需要的依赖，之后 npm run serve 运行代码。
 
