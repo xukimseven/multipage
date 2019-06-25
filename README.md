@@ -232,9 +232,9 @@ var devServer ={
 
 在工具栏找到 Tools > Deployment > Configurations ，选择 SFTP 并配置相关内容。
 
-​​![](http://blogimg.since1105.wang/multipage00.png)
+​​![](http://blogimg.since1105.wang/multipage000.png)
 
-​​![](http://blogimg.since1105.wang/multipage01.png)
+​​![](http://blogimg.since1105.wang/multipage001.png)
 
 ​​![](http://blogimg.since1105.wang/multipage02.png)
 
