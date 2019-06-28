@@ -9,6 +9,11 @@ export default new Router({
       path: '/',
       name: 'index',
       component: () => import(/* webpackChunkName: "about" */ './views/Index.vue')
+    },
+    {
+      path: '/ui',
+      name: 'ui',
+      component: () => import(/* webpackChunkName: "about" */ './views/Ui.vue')
     }
   ]
 });
